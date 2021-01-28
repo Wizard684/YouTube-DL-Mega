@@ -16,6 +16,6 @@
     
 ## Thanks ❤️
 * [Wizard](https://t.me/Mega_Bots_Updates) 
-* [Support Channel]Https://t.me/Mega_Bots_Supporters
+* [Support Channel] Https://t.me/Mega_Bots_Supporters
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aryanvikash/Youtube-Downloader-Bot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Wizard684/YouTube-DL-Mega/tree/master)
