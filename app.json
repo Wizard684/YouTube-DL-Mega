@@ -7,7 +7,7 @@
     "Youtube","YoutubeDownloader"
   ],
   "repository": "https://github.com/Wizard684/YouTube-DL-Mega",
-  "success_url": "http://t.me/You_Tube_downloader_DL_Bot",
+  "success_url": "https://t.me/youtubdlbot",
   "website": "https://github.com/Wizard684/YouTube-DL-Mega",
   "env": {
         "API_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
